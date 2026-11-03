@@ -7,12 +7,12 @@ from folium.plugins import MarkerCluster, Fullscreen, MiniMap
 from streamlit_folium import st_folium
 
 st.set_page_config(
-    page_title="GIS Spatial Data Explorer",
+    page_title="GeoScope",
     page_icon="🌍",
     layout="wide"
 )
 
-st.title("🌍 GIS Spatial Data Explorer")
+st.title("GeoScope")
 st.caption("Interactive geospatial mapping and data analysis")
 
 # Sidebar
