@@ -19,7 +19,7 @@ from streamlit_folium import st_folium
 # ==================================================
 
 st.set_page_config(
-    page_title="City Web GIS Platform",
+    page_title="GeoScope",
     page_icon="🗺️",
     layout="wide",
     initial_sidebar_state="collapsed"
